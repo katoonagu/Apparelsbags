@@ -1,6 +1,6 @@
 import { useState } from "react";
 import svgPaths from "../imports/svg-dit2hiklf0";
-import imgLYRcMwNd02 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.png";
+import imgLYRcMwNd02 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.jpeg";
 import Frame1457 from "../imports/Frame1454-7-1028";
 
 interface ContactPageProps {

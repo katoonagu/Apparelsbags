@@ -1,5 +1,5 @@
 import svgPaths from "./svg-fn9y8mgrb3";
-import imgImage56 from "figma:asset/5e07f8dfd12124b9aaa1b98445b339a60711b610.png";
+import imgImage56 from "figma:asset/5e07f8dfd12124b9aaa1b98445b339a60711b610.jpeg";
 
 /**
  * @figmaAssetKey ab13789e1eb648a3a3f543f4908f83a0a47ac97e

@@ -1,5 +1,5 @@
-import image_6596e218f601affe77a0537c9d9944eeed676364 from 'figma:asset/6596e218f601affe77a0537c9d9944eeed676364.png';
-import imgLYRcMwNd01 from "figma:asset/a35928d8b03c5ee26c150d5b18b2c69951125631.png";
+import image_6596e218f601affe77a0537c9d9944eeed676364 from 'figma:asset/6596e218f601affe77a0537c9d9944eeed676364.jpeg';
+import imgLYRcMwNd01 from "figma:asset/a35928d8b03c5ee26c150d5b18b2c69951125631.jpeg";
 
 export function AboutPage() {
   return (

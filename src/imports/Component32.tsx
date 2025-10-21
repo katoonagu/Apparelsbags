@@ -1,4 +1,4 @@
-import img12 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.png";
+import img12 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.jpeg";
 
 /**
  * @figmaAssetKey 176822c5675ed023f1ab6dd9b293be9e9ea680fa

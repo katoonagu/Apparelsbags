@@ -1,4 +1,4 @@
-import img12 from "figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.png";
+import img12 from "figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.jpeg";
 
 export default function Component36() {
   return (

@@ -1,5 +1,5 @@
 import svgPaths from "./svg-dit2hiklf0";
-import imgLYRcMwNd02 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.png";
+import imgLYRcMwNd02 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.jpeg";
 
 /**
  * @figmaAssetKey c1f14bcfb5e425dc2ec4f7b82746ccb3873d148d

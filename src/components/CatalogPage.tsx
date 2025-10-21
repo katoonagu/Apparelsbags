@@ -1,10 +1,10 @@
-import image_65fbd156fa8b439e20b4ee9df650e16dfe744fcf from 'figma:asset/65fbd156fa8b439e20b4ee9df650e16dfe744fcf.png';
-import image_3ceafa090867e63a41d6929856032b507fe5c556 from 'figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.png';
-import image_0f02f42dccd4b9aaaac741005dd46c1070c1de29 from 'figma:asset/0f02f42dccd4b9aaaac741005dd46c1070c1de29.png';
-import image_ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3 from 'figma:asset/ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3.png';
-import image_b8193464ac97a00efa3868b308bfb0861777ed5b from 'figma:asset/b8193464ac97a00efa3868b308bfb0861777ed5b.png';
-import image_ceb1ed6c484abef22100b895ae4ed78a70cf7510 from 'figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.png';
-import image_b8193464ac97a00efa3868b308bfb0861777ed5b from 'figma:asset/b8193464ac97a00efa3868b308bfb0861777ed5b.png';
+import image_65fbd156fa8b439e20b4ee9df650e16dfe744fcf from 'figma:asset/65fbd156fa8b439e20b4ee9df650e16dfe744fcf.jpeg';
+import image_3ceafa090867e63a41d6929856032b507fe5c556 from 'figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.jpeg';
+import image_0f02f42dccd4b9aaaac741005dd46c1070c1de29 from 'figma:asset/0f02f42dccd4b9aaaac741005dd46c1070c1de29.jpeg';
+import image_ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3 from 'figma:asset/ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3.jpeg';
+import image_b8193464ac97a00efa3868b308bfb0861777ed5b from 'figma:asset/b8193464ac97a00efa3868b308bfb0861777ed5b.jpeg';
+import image_ceb1ed6c484abef22100b895ae4ed78a70cf7510 from 'figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.jpeg';
+import image_b8193464ac97a00efa3868b308bfb0861777ed5b from 'figma:asset/b8193464ac97a00efa3868b308bfb0861777ed5b.jpeg';
 import { useState } from "react";
 import { ProductCard } from "./ProductCard";
 import { Grid, List, ChevronDown } from "lucide-react";

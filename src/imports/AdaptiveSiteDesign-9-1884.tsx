@@ -1,8 +1,8 @@
 import svgPaths from "./svg-hku44hqw04";
-import img12 from "figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.png";
-import imgRectangle1177 from "figma:asset/5e07f8dfd12124b9aaa1b98445b339a60711b610.png";
-import img13 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.png";
-import img14 from "figma:asset/ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3.png";
+import img12 from "figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.jpeg";
+import imgRectangle1177 from "figma:asset/5e07f8dfd12124b9aaa1b98445b339a60711b610.jpeg";
+import img13 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.jpeg";
+import img14 from "figma:asset/ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3.jpeg";
 import { imgVector } from "./svg-sfnrd";
 
 function Paragraph() {

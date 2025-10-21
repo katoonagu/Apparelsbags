@@ -1,10 +1,10 @@
 import svgPaths from "./svg-cz9re5s31g";
-import img12 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.png";
-import img13 from "figma:asset/ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3.png";
-import img14 from "figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.png";
-import img15 from "figma:asset/b8193464ac97a00efa3868b308bfb0861777ed5b.png";
-import img16 from "figma:asset/0f02f42dccd4b9aaaac741005dd46c1070c1de29.png";
-import img17 from "figma:asset/65fbd156fa8b439e20b4ee9df650e16dfe744fcf.png";
+import img12 from "figma:asset/ceb1ed6c484abef22100b895ae4ed78a70cf7510.jpeg";
+import img13 from "figma:asset/ba296c153dc3b3c1e6e5e0bf4b7f9b4bd56f44f3.jpeg";
+import img14 from "figma:asset/3ceafa090867e63a41d6929856032b507fe5c556.jpeg";
+import img15 from "figma:asset/b8193464ac97a00efa3868b308bfb0861777ed5b.jpeg";
+import img16 from "figma:asset/0f02f42dccd4b9aaaac741005dd46c1070c1de29.jpeg";
+import img17 from "figma:asset/65fbd156fa8b439e20b4ee9df650e16dfe744fcf.jpeg";
 
 /**
  * @figmaAssetKey 6065e8cbbfe468a5f12e236ca2d31c031e327f26

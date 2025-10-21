@@ -1,4 +1,4 @@
-import imgLYRcMwNd01 from "figma:asset/a35928d8b03c5ee26c150d5b18b2c69951125631.png";
+import imgLYRcMwNd01 from "figma:asset/a35928d8b03c5ee26c150d5b18b2c69951125631.jpeg";
 
 function Frame1454() {
   return (
